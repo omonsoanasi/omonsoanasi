@@ -11,11 +11,11 @@
 ╚══════╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
 ```
 
-### Emmanuel Mosomi · Software Developer · Strathmore University, Kenya
+### Emmanuel Omonso Anasi · Software Developer · 
 
 *Building things that matter — from web systems to cultural heritage tools*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+Python+%7C+MySQL;MSc+IT+%E2%80%94+Business+Intelligence+%26+Data+Analytics;Preserving+Ekegusii+culture+through+code;Building+at+Strathmore+University%2C+Kenya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+Python+%7C+MySQL;MSc+IT+%E2%80%94+Business+Intelligence+%26+Data+Analytics;Preserving+culture+through+code;Building+at+Strathmore+University%2C+Kenya)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,12 +23,11 @@
 
 ## `whoami`
 
-I'm a software developer based in **Nairobi, Kenya**, working at **Strathmore University** and deepening my craft through an **MSc in Information Technology** (specialization: Business Intelligence & Data Analytics). I've been in the industry long enough to appreciate clean architecture, and still green enough to get genuinely excited about a well-executed feature.
+I'm a software developer based in **Nairobi, Kenya**, and deepening my craft through an **MSc in Information Technology** (specialization: Business Intelligence & Data Analytics). I've been in the industry long enough to appreciate clean architecture, and still green enough to get genuinely excited about a well-executed feature.
 
 My background spans full-stack web development, enterprise Java applications, and applied machine learning. I like problems that have real weight to them — systems that people depend on daily, data that tells a story, and interfaces that don't make people feel stupid.
 
-Outside the IDE, I'm from the **Abagusii community** of Nyamira County, Western Kenya. That identity shapes a lot of what I build — including an active project to digitally preserve the **Ekegusii language and culture** before it fades into the background noise of modernity.
-
+Outside the IDE, I'm a **technical writer** — I write blogs that break down complex engineering concepts into something a human being can actually enjoy reading. Whether it's a deep dive into a Laravel pattern, a data science walkthrough, or an opinion on building software in an African context, I believe good writing is just good thinking made visible.
 ---
 
 ## 🛠️ Technical Stack
@@ -64,7 +63,7 @@ Outside the IDE, I'm from the **Abagusii community** of Nyamira County, Western 
 
 ## 🚀 Featured Projects
 
-### 🌿 Ekegusii Language & Culture Platform
+### 🌿 Language & Culture Platform
 > *Laravel 13 · Livewire · Alpine.js · Tailwind CSS · MySQL*
 
 A full-stack web platform dedicated to the digital preservation of the **Ekegusii language** — spoken by the Abagusii people of Western Kenya. Features include an interactive flashcard system (3D Alpine.js flip cards), a searchable word library, proverbs archive, cultural history pages, and a contributor system with a rich-text Summernote editor. Built with a dark green (`green-950`) and amber design language that feels rooted in the culture it serves.
@@ -80,14 +79,14 @@ An end-to-end machine learning pipeline for predicting loan defaults, built as p
 
 ---
 
-### 🎓 Academic Grades Display System
-> *Java · Spring Boot · Thymeleaf · MySQL*
+### 🎓 Academic Management System
+> *Java · Spring Boot · Thymeleaf · Oracle*
 
 A Spring Boot/Thymeleaf application that displays grouped academic grades in a card-per-qualification layout. Solved non-trivial data grouping challenges using two-level nested maps, and integrated Metronic/DataTables with search compatibility via invisible DOM spans — a fun problem that required more lateral thinking than a typical CRUD app.
 
 ---
 
-### 🏢 HR & Enterprise Systems (Attain Enterprise Solutions)
+### 🏢 HR & Enterprise Systems
 > *OrangeHRM · MySQL · Spring MVC · Java*
 
 During my tenure at Attain Enterprise Solutions, I worked on enterprise HR systems and Java-based internal tools. Debugged complex multi-join MySQL queries for employee data extraction, including fixing subtle LEFT JOIN semantics and resolving duplicate column alias conflicts in production environments.
@@ -98,8 +97,8 @@ During my tenure at Attain Enterprise Solutions, I worked on enterprise HR syste
 
 ```python
 current_focus = {
-    "MSc_thesis":     "Exam timetabling optimization (Genetic Algorithms + ML)",
-    "platform_work":  "Ekegusii language web platform — extending admin CRUD features",
+    "MSc_thesis":     "(Genetic Algorithms + ML)",
+    "platform_work":  "language web platform — extending admin CRUD features",
     "learning":       "Business Intelligence pipelines, cloud infrastructure (Azure)",
     "side_interest":  "Developer brand building for a Kenyan/African dev audience",
 }
@@ -109,7 +108,7 @@ current_focus = {
 
 ## 🧠 Research Interests
 
-- **AI/ML in Academic Operations** — timetabling, resource scheduling, supervision tracking
+- **AI/ML in Academic Operations** — resource scheduling, supervision tracking
 - **Natural Language Processing** — for low-resource African languages (Ekegusii, Swahili)
 - **Bias in Iterative AI Development** — methodology for responsible AI software engineering
 - **Business Intelligence** — data pipelines, dashboards, predictive analytics for institutions
@@ -130,13 +129,13 @@ current_focus = {
 
 ## 📍 A bit more about me
 
-- 📌 Based in **Nairobi**, with roots in **Nyamira County**, Western Kenya
+- 📌 Based in **Nairobi** Kenya
 - 🎓 **BSc Computer Science** → **MSc IT (BI & Data Analytics)** @ Strathmore University
-- 💼 Currently: **Software Developer @ Strathmore University**
+- 💼 Currently: **Software Developer**
 - 🌍 Passionate about technology that serves **African contexts and communities**
-- 🚗 Drive a 2010 Suzuki Swift and know my way around a K12B engine
+- 🚗 Drive a jalopy and I know things
 - 🏡 Set up my own solar-powered IoT security system on a homestead — because why not
-- ✍️ Occasionally writes scripts for YouTube storytelling in the African oral tradition
+- ✍️ Occasionally writes technical blogs and scripts for YouTube storytelling in the African oral tradition
 
 ---
 
@@ -144,9 +143,9 @@ current_focus = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emmanuel-anasi-17410580/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Emmanuelomonso@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/omonsonasi)
 
 *Open to collaborations on African language tech, academic systems, and meaningful full-stack projects.*
 
