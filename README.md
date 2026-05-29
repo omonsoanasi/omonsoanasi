@@ -15,7 +15,7 @@
 
 *Building things that matter — from web systems to cultural heritage tools*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+Python+%7C+MySQL;MSc+IT+%E2%80%94+Business+Intelligence+%26+Data+Analytics;Preserving+culture+through+code;Building+at+Strathmore+University%2C+Kenya)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=16A34A&center=true&vCenter=true&width=600&lines=Laravel+%7C+Spring+Boot+%7C+Python+%7C+SQL;MSc+IT+%E2%80%94+Business+Intelligence+%26+Data+Analytics;Preserving+culture+through+code;Building+at+Strathmore+University%2C+Kenya)](https://git.io/typing-svg)
 
 </div>
 
