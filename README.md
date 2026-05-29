@@ -25,9 +25,11 @@
 
 I'm a software developer based in **Nairobi, Kenya**, and deepening my craft through an **MSc in Information Technology** (specialization: Business Intelligence & Data Analytics). I've been in the industry long enough to appreciate clean architecture, and still green enough to get genuinely excited about a well-executed feature.
 
-My background spans full-stack web development, enterprise Java applications, and applied machine learning. I like problems that have real weight to them — systems that people depend on daily, data that tells a story, and interfaces that don't make people feel stupid.
+My background spans full-stack web development, enterprise Java applications, and applied machine learning. I like problems that have real weight to them — systems that people depend on daily, data that tells a story, and interfaces that don't make people feel stupid. 
 
-Outside the IDE, I'm a **technical writer** — I write blogs that break down complex engineering concepts into something a human being can actually enjoy reading. Whether it's a deep dive into a Laravel pattern, a data science walkthrough, or an opinion on building software in an African context, I believe good writing is just good thinking made visible.
+Outside the IDE, I'm a **technical writer** — I write blogs that break down complex engineering concepts into something a human being can actually enjoy reading. Whether it's a deep dive into a Laravel pattern, a data science walkthrough, or an opinion on building software in an African context, I believe good writing is just good thinking made visible..
+
+
 ---
 
 ## 🛠️ Technical Stack
